@@ -19,3 +19,8 @@ abstract manner(like everything in networking lol)
 Here's my freehand ASCII rendition of said diagrad:
 
 I WOULD NEVER TRY THAT...CMON I'M NOT A RENNAISANCE MAN(YET?)!!
+
+I am now learning to set up NGINX(ENGINE X)
+
+This site is my first resource: https://linuxize.com/post/how-to-install-nginx-on-debian-9/
+

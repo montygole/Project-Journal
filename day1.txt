@@ -2,3 +2,6 @@ Hi this is the first day of this stuff: 3/1/2021
 
 Making a Webserver:
 
+ALSO LEARNING GIT SOOO
+
+First of all, I know that I must implement a DMZ(great name) into my setup. This is so external access can only get to my webserver, not my precious bank info

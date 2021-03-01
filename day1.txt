@@ -24,3 +24,14 @@ I am now learning to set up NGINX(ENGINE X)
 
 This site is my first resource: https://linuxize.com/post/how-to-install-nginx-on-debian-9/
 
+
+It ended up being hell for me to figure out where to put my conf & files I want
+to show on the site.
+
+Turns out it was in the nginx.conf file the entire time(in an include statement)
+
+So now I just have a static html file on the server
+
+Now I am going to check what else I can to security wise:
+
+

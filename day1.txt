@@ -5,3 +5,5 @@ Making a Webserver:
 ALSO LEARNING GIT SOOO
 
 First of all, I know that I must implement a DMZ(great name) into my setup. This is so external access can only get to my webserver, not my precious bank info
+
+So this is a cool page for DMZ info: https://www.axigen.com/articles/how-to-install-a-demilitarized-zone-for-your-servers_24.html

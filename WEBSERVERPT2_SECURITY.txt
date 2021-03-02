@@ -1,1 +1,4 @@
 Ok so now I'ma be learning some metasploitable in my VM to try and understand how I may make my web server more secure. I am also going to be adding more to my server content/functionality wise!
+I've been using metaspolitable along with nmap.
+
+My webserver has/had port 25 on TCP open. Apparently this is not a great idea unless I am running email through the server, as people could use this to send large amounts of spam. I'm gonna close it until I need it.

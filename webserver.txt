@@ -32,4 +32,11 @@ Turns out it was in the nginx.conf file the entire time(in an include statement)
 
 So now I just have a static html file on the server
 
-Now I am going to check what else I can to security wise:
+Don't worry everyone! I'm putting this onto my Pi4 cuz why not! I'd also like
+to access the server from not not just localhost or my cellular data, can't do
+that if I take my laptop/VM with me!
+
+Also, don't worry, I setup a static ip(AKA a DHCP reservation) for the pi!!
+
+
+Now I am going to check what else I can to security wise!!

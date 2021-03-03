@@ -2,3 +2,5 @@ Ok so now I'ma be learning some metasploitable in my VM to try and understand ho
 I've been using metaspolitable along with nmap.
 
 My webserver has/had port 25 on TCP open. Apparently this is not a great idea unless I am running email through the server, as people could use this to send large amounts of spam. I'm gonna close it until I need it.
+
+There are other ports open, attempted to use UFW to close them, doesn't seem to work. Will update on fix for this!

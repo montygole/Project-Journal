@@ -3,4 +3,17 @@ I've been using metaspolitable along with nmap.
 
 My webserver has/had port 25 on TCP open. Apparently this is not a great idea unless I am running email through the server, as people could use this to send large amounts of spam. I'm gonna close it until I need it.
 
-There are other ports open, attempted to use UFW to close them, doesn't seem to work. Will update on fix for this!
+There are other ports open, attempted to use UFW to close them, doesn't seem to work, NMAP is showing them to be open. Will update on fix for this!
+
+I tried to telnet 25/tcp on my webserver IP. Timed out. 
+
+Also, when using https://pentest-tools.com/network-vulnerability-scanning/tcp-port-scanner-online-nmap it actually shows that only port 80 is open(also verbose that 22 aka SSH is closed).
+
+So, one of my sources who is human (I'll call him G) explained to me that this is due to the fact that telnet will look for the SYN the ACK (2/3 of the TCP handshake), but my nmap must just be looking for the SYN to see if something is open.
+
+I am guessing that this means--port wise--the server is safe. How else could it be affected?
+
+In the meantime I am going to see what else I can do. Haven't really been touching metasploitable, I'll get back on that too. 
+
+G also reccomended that I invest in a droplet/bastion (~$5) from digital ocean and use cloudflare.
+

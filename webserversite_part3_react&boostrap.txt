@@ -1,0 +1,14 @@
+UPDATE: I have begun hosting a site, montydev.xyz!
+
+My plans: create a site that is a hub of my computer endeavors! It will include an about me page, my work experience, projects, my github, and some games made in REACT!
+
+Now to create a frontend with bootstrap!
+
+
+I've copied the CDN, and am beginning to make it.
+
+Updates will follow.
+
+I'm thinking of either using basic monochrome, or material design colours.
+
+

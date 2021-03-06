@@ -1,0 +1,2 @@
+I have also been working on converting this geolocation script (https://github.com/zadewg/GS-LOC) from Python, into Go!
+
